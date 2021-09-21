@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "election_v1", "election_v1\election_v1.csproj", "{3223CE50-42A0-42B9-93F2-F9AFDDD3D665}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Election", "Election\Election.vdproj", "{EE00A01B-444A-4CBD-9DC7-BE541C601046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3223CE50-42A0-42B9-93F2-F9AFDDD3D665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3223CE50-42A0-42B9-93F2-F9AFDDD3D665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3223CE50-42A0-42B9-93F2-F9AFDDD3D665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3223CE50-42A0-42B9-93F2-F9AFDDD3D665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE00A01B-444A-4CBD-9DC7-BE541C601046}.Debug|Any CPU.ActiveCfg = Debug
+		{EE00A01B-444A-4CBD-9DC7-BE541C601046}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F402A5F1-1E0A-45FC-B9F9-129DFA8BC035}
+	EndGlobalSection
+EndGlobal
